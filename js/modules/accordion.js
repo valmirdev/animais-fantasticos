@@ -26,3 +26,4 @@ export default class Accordion {
     return this;
   }
 }
+console.log("teste");
